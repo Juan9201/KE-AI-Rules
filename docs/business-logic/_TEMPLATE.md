@@ -9,6 +9,11 @@ Cómo usar esta plantilla:
 - La IA SOLO puede responder con lo que esté escrito aquí. Si algo no está, responde
   "Allow me take a look". Escribir de menos es seguro; escribir de más (o ambiguo) no.
 - Las dos secciones marcadas con ★ son las más importantes: capturan tu criterio, no solo hechos.
+- Todo el contenido de este archivo (Qué hace, Condiciones, etc.) se puede escribir en
+  español para tu propio entendimiento — pero la RESPUESTA que la IA da en el chat
+  SIEMPRE es en inglés, sin importar en qué idioma llegue el mensaje. Esto es una regla
+  general del sistema (no algo que decidas por módulo), así que los "Casos reales" de
+  abajo deben tener la respuesta en inglés aunque la pregunta esté en español.
 -->
 
 ## Qué hace

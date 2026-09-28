@@ -19,8 +19,10 @@ por la ayuda"), cuando el mensaje está relacionado con el trabajo de soporte
   Empire, Foxihost) — no charla personal ajena al trabajo.
 - El mensaje no contiene ninguna pregunta ni solicitud adicional.
 - Si se conoce el nombre de quien escribe ("Name to use if you greet them"),
-  el saludo debe incluirlo (ej. "¡Hola Marissa!"). Si no se conoce, se saluda
+  el saludo debe incluirlo (ej. "Hello Marissa!"). Si no se conoce, se saluda
   sin nombre — nunca se inventa uno.
+- La respuesta SIEMPRE va en inglés, sin importar en qué idioma esté el
+  mensaje original (regla general del sistema, no solo de este módulo).
 
 ## Excepciones
 
@@ -51,10 +53,12 @@ negocio en juego. Sirve como regla de prueba de extremo a extremo.
 ## Casos reales
 
 - **Pregunta:** "Hola equipo!" (autor: "AM Marissa Ware")
-  **Respuesta correcta:** "¡Hola Marissa! ¿En qué te puedo ayudar?"
+  **Respuesta correcta:** "Hello Marissa! How can I help?" (en inglés aunque el
+  mensaje original haya llegado en español — regla general del sistema)
 - **Pregunta:** "Goodmorning Everyone!!" (autor: "M Rishunda Colbert")
   **Respuesta correcta:** "Good morning Rishunda! How can I help?"
 - **Pregunta:** "Buenos días Juan, gracias por la ayuda de ayer" (autor sin
   nombre reconocible)
-  **Respuesta correcta:** "¡De nada! Cualquier cosa aquí estoy." (sin nombre,
-  porque no se pudo determinar con certeza)
+  **Respuesta correcta:** "You're welcome! Let me know if you need anything
+  else." (sin nombre, porque no se pudo determinar con certeza; en inglés
+  aunque el mensaje haya llegado en español)
