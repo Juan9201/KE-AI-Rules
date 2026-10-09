@@ -9,6 +9,15 @@ El Worker incluye este archivo en cada interpretación, así que mantenlo corto 
 | Foxihost | Plataforma/sistema que Kids Empire usa y al que Juan da soporte de producto. |
 | Gravity Support | Canal de Connecteam por el que llegan los requerimientos de las sucursales. |
 | Sucursal | Una ubicación física de Kids Empire. |
+| Staff | Empleado del parque; es quien escribe en el chat. Nunca hay contacto con el huésped. |
+| Guest / huésped | Cliente final del parque; solo lo atiende el staff. |
+| Play Card | Tarjeta de 10 dígitos que guarda flames para jugar. Se vende en el POS (brazalete de $1). |
+| Flames | Moneda de juego de las máquinas de Amusement Connect. |
+| Receipt ID / Transaction # | Número (solo dígitos) del comprobante de pago en Gravity. |
+| Gravity | `access.thegravityapp.io`; cobra al huésped y emite el recibo. |
+| Amusement Connect | `app.amusementconnect.com`; proveedor de las máquinas y de los saldos de flames. |
+| Webhook | Aviso automático de Gravity a Amusement Connect para cargar los flames; si falla, el pago queda sin recarga. |
+| Manual Kiosk | Pantalla de Amusement Connect para recargar una tarjeta a mano ("Reload Card" → "Credit"). |
 | TODO(Juan) | Agrega aquí abreviaturas, nombres de pantallas, nombres de máquinas, etc. |
 
 ## Rangos
@@ -36,3 +45,6 @@ Reglas de esta tabla:
 | RM | Rango de sucursal (TODO(Juan): confirmar nombre completo) |
 | DM | Rango de sucursal (TODO(Juan): confirmar nombre completo) |
 | CTM | Rango de sucursal (TODO(Juan): confirmar nombre completo) |
+| C | Rango de sucursal (TODO(Juan): confirmar nombre completo) |
+| RTM | Rango de sucursal (TODO(Juan): confirmar nombre completo) |
+| * | Prefijo especial que traen algunos nombres de usuario (ej. "* paquito contreras"); se trata como rango |
